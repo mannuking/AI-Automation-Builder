@@ -2,7 +2,7 @@
 
 A visual, no-code platform for creating AI-powered workflows inspired by n8n. Build, visualize, and execute complex LLM-driven automation pipelines using a simple, intuitive interface.
 
-![Visual AI Automation Builder](https://github.com/yourusername/AI-Automation-Builder/assets/youruid/ai-automation-builder-screenshot.png)
+![Visual AI Automation Builder](https://github.com/mannuking/AI-Automation-Builder/assets/youruid/ai-automation-builder-screenshot.png)
 
 ## 🌟 Features
 
@@ -26,7 +26,7 @@ A visual, no-code platform for creating AI-powered workflows inspired by n8n. Bu
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/AI-Automation-Builder.git
+git clone https://github.com/mannuking/AI-Automation-Builder.git
 cd "AI Automation Builder"
 ```
 
@@ -161,4 +161,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-Your Name - [GitHub](https://github.com/yourusername)
+Jai Kumar Meena - [GitHub](https://github.com/mannuking)
