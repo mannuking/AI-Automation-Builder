@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
 """
 N8N-Inspired AI Automation Workflow Builder using Streamlit and LangGraph
 """
-# Subscribe to the Deep Charts YouTube Channel (https://www.youtube.com/@DeepCharts)
 
 import streamlit as st
 import uuid
